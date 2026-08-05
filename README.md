@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1816-truncate-sentence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [3227-vowels-game-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3227-vowels-game-in-a-string) |
+| [3271-hash-divided-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3271-hash-divided-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 <!---LeetCode Topics End-->
