@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1816-truncate-sentence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Simulation
 |  |
