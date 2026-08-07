@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2079-watering-plants](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2079-watering-plants) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2079-watering-plants](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2079-watering-plants) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3271-hash-divided-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 ## Enumeration
