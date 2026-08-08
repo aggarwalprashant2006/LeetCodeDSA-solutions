@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1534-count-good-triplets](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2405-optimal-partition-of-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3467-transform-array-by-parity](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
