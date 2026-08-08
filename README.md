@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2079-watering-plants](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
