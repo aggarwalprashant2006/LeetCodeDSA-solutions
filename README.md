@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3227-vowels-game-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
