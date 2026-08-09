@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
