@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1528-shuffle-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
