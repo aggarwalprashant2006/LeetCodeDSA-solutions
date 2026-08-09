@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2405-optimal-partition-of-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
