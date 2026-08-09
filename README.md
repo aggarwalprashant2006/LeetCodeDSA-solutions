@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3227-vowels-game-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
