@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1528-shuffle-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2105-watering-plants-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
