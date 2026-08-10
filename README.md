@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3467-transform-array-by-parity](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3941-password-strength](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3941-password-strength) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Stack
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Brainteaser
 |  |
 | ------- |
