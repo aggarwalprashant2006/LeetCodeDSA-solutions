@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2405-optimal-partition-of-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
