@@ -12,11 +12,9 @@ class Solution {
             }
         }
         lst.add(count);
-        int count1 = 0;
         int sum = 0;
-        for(int i = lst.size()-1;i > 0;i--){
-            count1 +=lst.get(i);
-            sum += count1; 
+        for(int i = 1;i<lst.size();i++){
+            sum += i*lst.get(i);
         }
         return sum;
     }
