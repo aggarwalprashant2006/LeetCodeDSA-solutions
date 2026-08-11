@@ -9,7 +9,7 @@ class Solution {
             if((!map2.contains(a) && !map3.contains(a))&& !map1.contains(a)){
                 map1.add(a);
             }else{
-                if(map2.contains(a) || map2.contains(a)){
+                if(map2.contains(a) || map3.contains(a)){
                     map1.remove(a);
                 }
             }
