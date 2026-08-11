@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3227-vowels-game-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3227-vowels-game-in-a-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2405-optimal-partition-of-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Database
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
