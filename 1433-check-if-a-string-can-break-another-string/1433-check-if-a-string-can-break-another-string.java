@@ -8,21 +8,18 @@ class Solution {
         Arrays.sort(arr1);
         Arrays.sort(arr2);
         int count = 0;
-        for(int i =0;i<arr1.length;i++){
-            if(arr1[i] >= arr2[i]){
-                count++;
-            }
-        }
-        if(count == arr1.length){
-            return true;
-        }
         int count1 = 0;
         for(int i =0;i<arr1.length;i++){
-            if(arr1[i] <= arr2[i]){
+            if(arr1[i] > arr2[i]){
+                count++;
+            }else if(arr1[i] == arr2[i]){
+                count++;
+                count1++;
+            }else{
                 count1++;
             }
         }
-        if(count1 == arr1.length){
+        if(count == arr1.length || count1 == arr1.length){
             return true;
         }
         return false;
