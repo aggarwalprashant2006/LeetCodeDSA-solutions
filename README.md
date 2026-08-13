@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3227-vowels-game-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3941-password-strength](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## Counting
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Enumeration
 |  |
 | ------- |
