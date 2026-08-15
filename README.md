@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0152-maximum-product-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Binary Search
