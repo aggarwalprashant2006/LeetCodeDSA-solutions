@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0413-arithmetic-slices](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0413-arithmetic-slices](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Binary Search
