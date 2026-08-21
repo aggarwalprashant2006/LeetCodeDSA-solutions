@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1528-shuffle-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1528-shuffle-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0537-complex-number-multiplication) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1860-incremental-memory-leak](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1860-incremental-memory-leak) |
 | [1920-build-array-from-permutation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -353,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1409-queries-on-a-permutation-with-key) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
