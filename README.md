@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1792-maximum-average-pass-ratio](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1792-maximum-average-pass-ratio) |
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -372,4 +373,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1409-queries-on-a-permutation-with-key) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
