@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
