@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3941-password-strength](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## Counting
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
