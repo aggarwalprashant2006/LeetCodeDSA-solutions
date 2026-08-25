@@ -4,13 +4,12 @@ class Solution {
         for(int i =0;i<nums.length;i++){
             set.add(nums[i]);
         }
-        int i = k;
         int j = 2;
-        int a = i;
-        while(set.contains(i)){
-            i = a*j;
+        int a = k;
+        while(set.contains(k)){
+            k = a*j;
             j++;
         }
-        return i;
+        return k;
     }
 }
