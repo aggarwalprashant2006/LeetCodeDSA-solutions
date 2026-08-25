@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3941-password-strength](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## String
 |  |
