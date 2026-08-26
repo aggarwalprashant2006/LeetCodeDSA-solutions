@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1313-decompress-run-length-encoded-list](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
