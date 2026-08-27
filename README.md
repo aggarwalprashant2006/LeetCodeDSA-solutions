@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1829-maximum-xor-for-each-query](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2527-find-xor-beauty-of-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
