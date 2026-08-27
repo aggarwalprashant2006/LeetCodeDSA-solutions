@@ -449,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
