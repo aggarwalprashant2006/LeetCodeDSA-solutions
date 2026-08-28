@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## String Matching
 |  |
 | ------- |
