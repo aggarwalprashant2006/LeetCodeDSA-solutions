@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2843-count-symmetric-integers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3100-water-bottles-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2843-count-symmetric-integers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
