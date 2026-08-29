@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3856-trim-trailing-vowels](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## Counting
