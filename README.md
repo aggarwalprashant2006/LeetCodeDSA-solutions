@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1754-largest-merge-of-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1754-largest-merge-of-two-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
