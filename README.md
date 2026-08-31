@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -494,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
