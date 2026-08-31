@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0413-arithmetic-slices](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0896-monotonic-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0896-monotonic-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0318-maximum-product-of-word-lengths](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0537-complex-number-multiplication](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1829-maximum-xor-for-each-query](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
