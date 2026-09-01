@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1754-largest-merge-of-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1754-largest-merge-of-two-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-closest-divisors](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1362-closest-divisors) |
 | [1688-count-of-matches-in-tournament](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1860-incremental-memory-leak](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1860-incremental-memory-leak) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
