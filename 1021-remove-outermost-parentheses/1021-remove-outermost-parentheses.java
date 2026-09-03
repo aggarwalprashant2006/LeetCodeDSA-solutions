@@ -1,6 +1,5 @@
 class Solution {
     public String removeOuterParentheses(String s) {
-        Stack<Character> str = new Stack<>();
         StringBuilder sb = new StringBuilder();
         int i = 1;
         int sum1 = 1;
