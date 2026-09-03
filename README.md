@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1313-decompress-run-length-encoded-list](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Math
@@ -533,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Design
+|  |
+| ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
