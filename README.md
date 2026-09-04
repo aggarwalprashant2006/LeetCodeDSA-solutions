@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Combinatorics
 |  |
 | ------- |
