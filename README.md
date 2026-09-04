@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2326-spiral-matrix-iv](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2326-spiral-matrix-iv](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2326-spiral-matrix-iv](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [2326-spiral-matrix-iv](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2965-find-missing-and-repeated-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Bracket Sequences
 |  |
