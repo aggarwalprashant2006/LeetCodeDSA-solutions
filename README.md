@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1792-maximum-average-pass-ratio](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1792-maximum-average-pass-ratio) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1630-arithmetic-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1630-arithmetic-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1817-finding-the-users-active-minutes](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1748-sum-of-unique-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
