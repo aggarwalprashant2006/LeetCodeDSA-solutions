@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
