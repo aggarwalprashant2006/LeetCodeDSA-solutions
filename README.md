@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2326-spiral-matrix-iv](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
@@ -572,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
