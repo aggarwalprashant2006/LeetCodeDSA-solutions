@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0445-add-two-numbers-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [1362-closest-divisors](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1362-closest-divisors) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0445-add-two-numbers-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2326-spiral-matrix-iv](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Divide and Conquer
