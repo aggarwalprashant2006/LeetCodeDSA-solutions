@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0413-arithmetic-slices](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
+| [0436-find-right-interval](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0436-find-right-interval](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0436-find-right-interval](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Pigeonhole Principle
 |  |
