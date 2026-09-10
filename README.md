@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Number Theory
 |  |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
