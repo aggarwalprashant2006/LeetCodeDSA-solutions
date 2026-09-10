@@ -1,7 +1,7 @@
 class Solution {
     static int[] dp;
     public int climbStairs(int n) {
-        dp = new int[n+1];
+        dp = new int[n];
         Arrays.fill(dp,-1);
         return Stairs(n,0);
     }
