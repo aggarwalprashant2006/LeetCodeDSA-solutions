@@ -1,12 +1,9 @@
 class Solution {
     static int[] dp;
-    static int sum;
     public int minCost(int n) {
         dp = new int[n+1];
         Arrays.fill(dp,-1);
-        sum = 0;
-        sum += cost(n);
-        return sum;
+        return cost(n);
     }
     public int cost(int n) {
         if(n <= 1){
