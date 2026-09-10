@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Binary Search
 |  |
 | ------- |
