@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2843-count-symmetric-integers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
