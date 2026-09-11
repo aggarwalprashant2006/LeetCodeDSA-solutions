@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2895-minimum-processing-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2895-minimum-processing-time) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2864-maximum-odd-binary-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
+| [2895-minimum-processing-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2895-minimum-processing-time) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Database
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2895-minimum-processing-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2895-minimum-processing-time) |
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
