@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0539-minimum-time-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0746-min-cost-climbing-stairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0825-friends-of-appropriate-ages](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0896-monotonic-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0896-monotonic-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0537-complex-number-multiplication](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [1362-closest-divisors](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1362-closest-divisors) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0539-minimum-time-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0825-friends-of-appropriate-ages](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
