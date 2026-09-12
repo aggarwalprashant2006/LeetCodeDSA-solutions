@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0825-friends-of-appropriate-ages](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0896-monotonic-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0896-monotonic-array) |
+| [0976-largest-perimeter-triangle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1313-decompress-run-length-encoded-list](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0976-largest-perimeter-triangle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1362-closest-divisors](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1362-closest-divisors) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0763-partition-labels) |
+| [0976-largest-perimeter-triangle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0539-minimum-time-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0825-friends-of-appropriate-ages](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [0976-largest-perimeter-triangle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0976-largest-perimeter-triangle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -650,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
