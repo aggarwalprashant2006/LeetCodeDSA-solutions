@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2740-find-the-value-of-the-partition](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2895-minimum-processing-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2895-minimum-processing-time) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2706-buy-two-chocolates](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2740-find-the-value-of-the-partition](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2895-minimum-processing-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2895-minimum-processing-time) |
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
