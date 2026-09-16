@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1630-arithmetic-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1630-arithmetic-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1630-arithmetic-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1630-arithmetic-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1817-finding-the-users-active-minutes](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1817-finding-the-users-active-minutes) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1630-arithmetic-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1630-arithmetic-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
