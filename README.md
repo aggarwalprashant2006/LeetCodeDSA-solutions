@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0436-find-right-interval](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0494-target-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
+| [0494-target-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -707,4 +709,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
