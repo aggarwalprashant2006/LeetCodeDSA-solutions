@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2643-row-with-maximum-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [2326-spiral-matrix-iv](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2643-row-with-maximum-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3446-sort-matrix-by-diagonals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3446-sort-matrix-by-diagonals) |
 ## Bracket Sequences
