@@ -1,17 +1,18 @@
 class Solution {
     public int findKthPositive(int[] arr, int k) {
-        HashSet<Integer> set = new HashSet<>();
-        for(int i =0;i<arr.length;i++){
-            set.add(arr[i]);
-        }
-        int count = 0;
-        int i = 1;
-        while(count < k){
-            if(!set.contains(i)){
-                count++;
+        int low = 0;
+        int high = arr.length-1;
+        while(low <= high){
+            int mid = low+(high-low)/2;
+            if((arr[mid] - mid-1) < k){
+                low = mid+1;
+            }else{
+                high = mid-1;
             }
-            i++;
         }
-        return i-1;
+        if (high == -1) return k;
+        int a = arr[high] - high-1;
+        int b = k-a;
+        return arr[high]+b;
     }
 }
