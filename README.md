@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3856-trim-trailing-vowels](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3941-password-strength) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Counting
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3959-check-good-integer](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3959-check-good-integer) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Brainteaser
 |  |
 | ------- |
