@@ -3,7 +3,7 @@ class Solution {
         long low = 1;
         long high = 0;
         for(int i =0;i<piles.length;i++){
-            high += piles[i];
+            high = Math.max(high,piles[i]);
         }
         while(low <= high){
             long mid = low+(high-low)/2;
