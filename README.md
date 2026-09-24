@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1829-maximum-xor-for-each-query](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1861-rotating-the-box](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1901-find-a-peak-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
