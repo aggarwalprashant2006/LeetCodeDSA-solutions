@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0825-friends-of-appropriate-ages](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0826-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0825-friends-of-appropriate-ages](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0826-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
