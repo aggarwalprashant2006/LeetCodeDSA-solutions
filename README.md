@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0445-add-two-numbers-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
