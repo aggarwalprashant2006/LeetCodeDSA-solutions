@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3941-password-strength) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3959-check-good-integer](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3959-check-good-integer) |
 ## Enumeration
 |  |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Heap (Priority Queue)
 |  |
