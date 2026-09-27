@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1754-largest-merge-of-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1754-largest-merge-of-two-strings) |
 | [1792-maximum-average-pass-ratio](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1792-maximum-average-pass-ratio) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Binary Search
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
