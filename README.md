@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2865-beautiful-towers-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2865-beautiful-towers-i) |
 | [2895-minimum-processing-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2895-minimum-processing-time) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2865-beautiful-towers-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2865-beautiful-towers-i) |
 | [3174-clear-digits](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Math
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [2865-beautiful-towers-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2865-beautiful-towers-i) |
 ## Bit Manipulation
 |  |
 | ------- |
