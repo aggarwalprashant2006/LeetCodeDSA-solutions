@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0763-partition-labels](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
