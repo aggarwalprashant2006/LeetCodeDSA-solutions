@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1035-uncrossed-lines](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1035-uncrossed-lines) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1313-decompress-run-length-encoded-list](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
+| [1035-uncrossed-lines](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1035-uncrossed-lines](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
