@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0436-find-right-interval](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0494-target-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0763-partition-labels](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0826-most-profit-assigning-work) |
 | [0976-largest-perimeter-triangle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1829-maximum-xor-for-each-query](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0825-friends-of-appropriate-ages](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
