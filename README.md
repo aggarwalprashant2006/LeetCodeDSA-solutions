@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0445-add-two-numbers-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
