@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1829-maximum-xor-for-each-query](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1991-find-the-middle-index-in-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2540-minimum-common-value](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
