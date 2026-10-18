@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3280-convert-date-to-binary](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3340-check-balanced-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Simulation
 |  |
 | ------- |
