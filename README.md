@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1313-decompress-run-length-encoded-list](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
+| [1314-matrix-block-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1208-get-equal-substrings-within-budget](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1829-maximum-xor-for-each-query](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1314-matrix-block-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
