@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3941-password-strength](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## String
 |  |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Stack
 |  |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Combinatorics
@@ -867,10 +871,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -1019,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Flow Network
 |  |
 | ------- |
