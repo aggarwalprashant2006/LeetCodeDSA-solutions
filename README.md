@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3693-climbing-stairs-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3693-climbing-stairs-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Binary Search
 |  |
