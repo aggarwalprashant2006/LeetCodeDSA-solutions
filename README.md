@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Database
 |  |
