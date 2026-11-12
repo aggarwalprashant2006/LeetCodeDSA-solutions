@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
