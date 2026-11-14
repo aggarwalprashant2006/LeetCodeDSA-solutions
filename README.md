@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Simulation
 |  |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
