@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
+| [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2740-find-the-value-of-the-partition](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2643-row-with-maximum-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
+| [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2965-find-missing-and-repeated-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3446-sort-matrix-by-diagonals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3446-sort-matrix-by-diagonals) |
