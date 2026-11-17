@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0763-partition-labels](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Recursion
 |  |
@@ -1043,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Depth-First Search
 |  |
