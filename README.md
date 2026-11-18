@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3019-number-of-changing-keys](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
