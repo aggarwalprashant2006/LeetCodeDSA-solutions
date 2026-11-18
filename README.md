@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2740-find-the-value-of-the-partition](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2865-beautiful-towers-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2865-beautiful-towers-i) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2740-find-the-value-of-the-partition](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2895-minimum-processing-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2895-minimum-processing-time) |
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
