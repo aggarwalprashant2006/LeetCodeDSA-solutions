@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2895-minimum-processing-time](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2895-minimum-processing-time) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2740-find-the-value-of-the-partition](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
