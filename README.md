@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2965-find-missing-and-repeated-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3446-sort-matrix-by-diagonals) |
 ## Bracket Sequences
 |  |
