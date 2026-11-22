@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2315-count-asterisks](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2315-count-asterisks) |
