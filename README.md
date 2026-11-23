@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0976-largest-perimeter-triangle](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1362-closest-divisors](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1362-closest-divisors) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Recursion
 |  |
@@ -1090,4 +1094,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
