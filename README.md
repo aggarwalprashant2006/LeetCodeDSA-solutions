@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
+| [2679-sum-in-a-matrix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2326-spiral-matrix-iv](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2679-sum-in-a-matrix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2740-find-the-value-of-the-partition](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1792-maximum-average-pass-ratio](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/1792-maximum-average-pass-ratio) |
+| [2679-sum-in-a-matrix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Stack
@@ -992,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2643-row-with-maximum-ones](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
+| [2679-sum-in-a-matrix](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2965-find-missing-and-repeated-values](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
