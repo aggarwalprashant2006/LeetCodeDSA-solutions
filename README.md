@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3360-stone-removal-game](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aggarwalprashant2006/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
